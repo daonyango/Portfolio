@@ -16,6 +16,7 @@ This project is a web application for a Portfolio Landing Page.
 * code . or atom . based on the text editor you have.
 
 ## Live Page 
+https://daonyango.github.io/Portfolio/
 
 ## License
 * *Freeware License:*
