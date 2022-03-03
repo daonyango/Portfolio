@@ -1,2 +1,22 @@
 # Portfolio
-Learning how to create a website using html, css and javascript.
+
+## Author
+
+[Dorcus Onyango](https://github.com/daonyango)
+
+## Description
+
+This project is a web application for a Portfolio Landing Page. 
+
+## Installation / Setup instruction
+* Open Terminal {Ctrl+Alt+T}
+
+* cd Portfolio
+
+* code . or atom . based on the text editor you have.
+
+## Live Page 
+
+## License
+* *Freeware License:*
+* Copyright (c) 2022 **Dorcus Onyango**
